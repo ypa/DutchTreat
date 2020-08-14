@@ -33,3 +33,6 @@ msbuild.wrn
 
 # npm packages
 node_modules
+
+# angular build output files
+wwwroot/clientapp
